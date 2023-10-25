@@ -1,0 +1,27 @@
+.Rodape {
+  background-color: #0d861e;
+  color: #000000;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  height: 100%;
+}
+
+.Rodape-contact {
+  margin-bottom: 10px; 
+}
+
+.Rodape-title {
+  flex: 1; 
+}
+
+.Rodape-name {
+  margin-top: 10px;
+}
+
+.Rodape h1 {
+  font-size: 20px;
+  margin: 0;
+}

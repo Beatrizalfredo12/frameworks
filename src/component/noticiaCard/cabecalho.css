@@ -1,0 +1,22 @@
+
+.Cabecalho {
+  background-color: #0d861e;
+  color: #bfbfbf; 
+  padding: 20px; 
+  text-align: center;
+  display: flex;
+  justify-content: space-between;
+}
+
+.Cabecalho img {
+  width: 24vh;
+}
+
+.Cabecalho h1 {
+  font-size: 24px;
+}
+
+.Cabecalho-welcome {
+  font-size: 18px; 
+  margin-bottom: 2px; 
+}
